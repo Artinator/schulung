@@ -1,2 +1,2 @@
-# schulung
-some nice stuff
+# PPEDV WPF Training
+Some base concepts with WPF
